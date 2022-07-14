@@ -1,5 +1,6 @@
 import telebot
 import os
+import emoji
 
 from users import User
 from telebot import types
@@ -93,11 +94,12 @@ def cal(call: types.CallbackQuery) -> None:
         bot.edit_message_text(f"Выберите: {LSTEP[step]}", call.message.chat.id, call.message.message_id,
                               reply_markup=key)
     elif res:
+        bot.edit_message_text("Теперь выберите дату выезда из отеля.", call.message.chat.id,
+                              call.message.message_id)
         call.message.text = res
         get_date(call.message)
 
 def get_date(message):
-    bot.send_message(message.chat.id, "Теперь выберите дату выезда из отеля.")
     user = User.get_user(message.chat.id)
     if user.date_1 is None:
         user.date_1 = message.text
@@ -106,13 +108,28 @@ def get_date(message):
         user.date_2 = message.text
         date_1 = user.date_1
         date_2 = user.date_2
+        result = lowprice.search_hotels(user.city_id, date_1, date_2)
+        bot.send_message(message.chat.id, "Нужны ли Вам фотографии отеля?")
+        bot.register_next_step_handler(message, show_photo, result)
 
+def show_photo(message, res):
+    if message == "Нет" or "нет" or "No" or "no":
+        bot.send_message(message.chat.id, f"Сколько отелей Вам показать? Максимально {len(res)}")
+        bot.register_next_step_handler(message, show_hotels, res)
+    elif message == "Да" or "да" or "Yes" or "yes":
+        pass
 
-
-
-# def show_hotels(message, count):
-#     user = User.get_user(message.from_user.id)
-#     user.count_hotel = len(count)
+def show_hotels(message, result):
+    for count in range(int(message.text)):
+        for hotel in result:
+            bot.send_message(message.chat.id, "Ccылка на отель: hotels.com/ho{link}\nНазвание отеля: {name_hotel}\n",
+                                              "Адрес: {address}\nРейтинг отеля: {ratings}\nГород: {city}\n",
+                                              "Цена: {price}").format(link=hotel[0],
+                                                                      name_hotel=hotel[1],
+                                                                      address=hotel[2],
+                                                                      ratings=hotel[3],
+                                                                      city=hotel[4],
+                                                                      price=hotel[5])
 
 
 if __name__ == "__main__":
