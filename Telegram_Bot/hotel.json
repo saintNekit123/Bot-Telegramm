@@ -1,0 +1,1865 @@
+{
+    "result": "OK",
+    "data": {
+        "body": {
+            "header": "\u0421\u043e\u0447\u0438, \u0411\u0438\u0431\u0431\u0438\u0435\u043d\u0430, \u0422\u043e\u0441\u043a\u0430\u043d\u0430, \u0418\u0442\u0430\u043b\u0438\u044f",
+            "query": {
+                "destination": {
+                    "id": "1912762",
+                    "value": "\u0421\u043e\u0447\u0438, \u0411\u0438\u0431\u0431\u0438\u0435\u043d\u0430, \u0422\u043e\u0441\u043a\u0430\u043d\u0430, \u0418\u0442\u0430\u043b\u0438\u044f",
+                    "resolvedLocation": "CITY:1912762:UNKNOWN:UNKNOWN"
+                }
+            },
+            "searchResults": {
+                "totalCount": 734,
+                "results": [
+                    {
+                        "id": 1355119296,
+                        "name": "Casa Agricola Rossi",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Nazionale 28/30",
+                            "extendedAddress": "",
+                            "locality": "Bibbiena",
+                            "postalCode": "52011",
+                            "region": "Arezzo",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0426\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430",
+                                "distance": "0,9 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "neighbourhood": "Bibbiena",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 43.730763,
+                            "lon": 11.81226
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 42316228,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/43000000/42320000/42316300/42316228/a2b09e60_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 411147,
+                        "name": "Hotel Chenno",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Don Lorenzo Boschi 29",
+                            "extendedAddress": "",
+                            "locality": "Subbiano",
+                            "postalCode": "52010",
+                            "region": "AR",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.6,
+                            "rating": "6,6",
+                            "total": 8,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "\u0425\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "19 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "2,445 RUB",
+                                "exactCurrent": 2445.03
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Subbiano",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 43.576261,
+                            "lon": 11.871055
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 5182629,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/6000000/5190000/5182700/5182629/2b19fb1c_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 215236,
+                        "name": "B&B Hotel Arezzo",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Einstein, 4",
+                            "extendedAddress": "",
+                            "locality": "Arezzo",
+                            "postalCode": "52100",
+                            "region": "AR",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.4,
+                            "rating": "8,4",
+                            "total": 239,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "\u041e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "30 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "2,880 RUB",
+                                "exactCurrent": 2879.7
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Arezzo",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.469724,
+                            "lon": 11.848893
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 967595,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/970000/967600/967595/0c11f12b_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 369896,
+                        "name": "Santo Spirito",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Ticino 3",
+                            "extendedAddress": "",
+                            "locality": "Arezzo",
+                            "postalCode": "52100",
+                            "region": "AR",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.8,
+                            "rating": "7,8",
+                            "total": 41,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "\u0425\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "32 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "2,880 RUB",
+                                "exactCurrent": 2879.69
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Arezzo",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.456369,
+                            "lon": 11.8726
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 2762064,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/3000000/2770000/2762100/2762064/f9233e22_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 939348960,
+                        "name": "Il Bosso di Toscana",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Trento 52, 52021 Badia Agnano, Italy",
+                            "extendedAddress": "",
+                            "locality": "Bucine",
+                            "postalCode": "52021",
+                            "region": "AR",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 10.0,
+                            "rating": "10,0",
+                            "total": 5,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "\u0412\u0435\u043b\u0438\u043a\u043e\u043b\u0435\u043f\u043d\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "36 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "3,151 RUB",
+                                "exactCurrent": 3151.36
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Bucine",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.43645,
+                            "lon": 11.64708
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 29323405,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/30000000/29330000/29323500/29323405/da850b94_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 660634816,
+                        "name": "Agriturismo Campo Rosso",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Strada com.le di Buggiana, 146",
+                            "extendedAddress": "",
+                            "locality": "Civitella di Romagna",
+                            "postalCode": "47012",
+                            "region": "FC",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "31 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "3,256 RUB",
+                                "exactCurrent": 3256.23
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Civitella di Romagna",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13",
+                        "coordinate": {
+                            "lat": 44.00287,
+                            "lon": 11.93324
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 20613588,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/21000000/20620000/20613600/20613588/84c8cfa1_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 637788064,
+                        "name": "B&B I Fiori",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Umbra, 52A",
+                            "extendedAddress": "",
+                            "locality": "San Giustino",
+                            "postalCode": "6016",
+                            "region": "Perugia",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 7,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "\u041e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "37 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "3,151 RUB",
+                                "exactCurrent": 3151.36
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "San Giustino",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|HRW|TESCO",
+                        "coordinate": {
+                            "lat": 43.543399,
+                            "lon": 12.180124
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 19899627,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/20000000/19900000/19899700/19899627/ffb00131_y.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 287537,
+                        "name": "Leonardo's Rooms",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Piave 7",
+                            "extendedAddress": "",
+                            "locality": "Pontassieve",
+                            "postalCode": "50065",
+                            "region": "FI",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 23,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "\u041e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "30 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "3,314 RUB",
+                                "exactCurrent": 3314.37
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Pontassieve",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 43.775033,
+                            "lon": 11.438691
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 2520663,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/3000000/2530000/2520700/2520663/3f7e897e_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 243907,
+                        "name": "Albergo Falterona",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Piazza Bernardo Tanucci, 85",
+                            "extendedAddress": "",
+                            "locality": "Pratovecchio Stia",
+                            "postalCode": "52017",
+                            "region": "Tuscany",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.8,
+                            "rating": "8,8",
+                            "total": 5,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "\u041f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u043d\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "11 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "3,477 RUB",
+                                "exactCurrent": 3477.36
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Pratovecchio Stia",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|HRW|TESCO",
+                        "coordinate": {
+                            "lat": 43.800653,
+                            "lon": 11.706374
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 1461689,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1461700/1461689/7d61d1b2_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 251238,
+                        "name": "Hotel Tenuta Il Burchio",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Poggio Al Burchio 4, Loc. Burchio",
+                            "extendedAddress": "",
+                            "locality": "Figline e Incisa Valdarno",
+                            "postalCode": "50064",
+                            "region": "FI",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.4,
+                            "rating": "8,4",
+                            "total": 121,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "\u041e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "31 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "3,675 RUB",
+                                "exactCurrent": 3675.14,
+                                "old": "4,659 RUB"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Figline e Incisa Valdarno",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.67762,
+                            "lon": 11.444248
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1590187,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1600000/1590200/1590187/149a8f27_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 266210,
+                        "name": "I ciliegi",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Piazza Giorgio Amendola 4",
+                            "extendedAddress": "",
+                            "locality": "Reggello",
+                            "postalCode": "50066",
+                            "region": "FI",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.4,
+                            "rating": "6,4",
+                            "total": 65,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "\u0425\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "30 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "3,681 RUB",
+                                "exactCurrent": 3681.13
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Reggello",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.665031,
+                            "lon": 11.457665
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1907253,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1910000/1907300/1907253/9a06c339_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 887577088,
+                        "name": "B&B Il Palazzo",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Localit\u00e0 il Palazzo 55",
+                            "extendedAddress": "Frazione Montagna",
+                            "locality": "Sansepolcro",
+                            "postalCode": "52037",
+                            "region": "Arezzo",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 10.0,
+                            "rating": "10,0",
+                            "total": 1,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "\u0412\u0435\u043b\u0438\u043a\u043e\u043b\u0435\u043f\u043d\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "32 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "3,999 RUB",
+                                "exactCurrent": 3998.97
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Sansepolcro",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.623883,
+                            "lon": 12.175707
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 27705534,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/28000000/27710000/27705600/27705534/45b80b42_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 395774,
+                        "name": "Albergo La Posta Arezzo",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Roma, 8",
+                            "extendedAddress": "Badia al Pino",
+                            "locality": "Civitella in Val di Chiana",
+                            "postalCode": "52041",
+                            "region": "AR",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 36,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0435"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "37 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "3,966 RUB",
+                                "exactCurrent": 3966.37
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Civitella in Val di Chiana",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13|HRW",
+                        "coordinate": {
+                            "lat": 43.404284,
+                            "lon": 11.768656
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 4724064,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/5000000/4730000/4724100/4724064/555ca9e5_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 392003,
+                        "name": "Tosco Romagnolo",
+                        "starRating": 4.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Piazza Dante Alighieri 2",
+                            "extendedAddress": "",
+                            "locality": "Bagno di Romagna",
+                            "postalCode": "47021",
+                            "region": "FC",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.4,
+                            "rating": "8,4",
+                            "total": 46,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "\u041e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "16 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "3,966 RUB",
+                                "exactCurrent": 3966.37
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Bagno di Romagna",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 43.83312,
+                            "lon": 11.95732
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 1160398,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1170000/1160400/1160398/6f1ffe76_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 872928384,
+                        "name": "La Speranza Hotel Grazzini",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Piave 14",
+                            "extendedAddress": "",
+                            "locality": "Rufina",
+                            "postalCode": "50068",
+                            "region": "Citt\u00e0 Metropolitana di Firenze",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.8,
+                            "rating": "8,8",
+                            "total": 5,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "\u041f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u043d\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "28 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,020 RUB",
+                                "exactCurrent": 4020.16
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Rufina",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.82669,
+                            "lon": 11.48833
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 27247762,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/28000000/27250000/27247800/27247762/e498e2db_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 78832320,
+                        "name": "Hotel Ristorante Miramonti",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Casentinese 61",
+                            "extendedAddress": "Localita Consuma",
+                            "locality": "Montemignaio",
+                            "postalCode": "52010",
+                            "region": "Ar",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.2,
+                            "rating": "7,2",
+                            "total": 19,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "\u0425\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "18 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,347 RUB",
+                                "exactCurrent": 4346.71
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Montemignaio",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.78444,
+                            "lon": 11.603957
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 2432260,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/3000000/2440000/2432300/2432260/4edfe0c9_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 262335,
+                        "name": "Euro Hotel",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Superstrada E45, km 150",
+                            "extendedAddress": "",
+                            "locality": "Pieve Santo Stefano",
+                            "postalCode": "52036",
+                            "region": "AR",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 15,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "\u041e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "21 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,075 RUB",
+                                "exactCurrent": 4075.04
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Pieve Santo Stefano",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.657982,
+                            "lon": 12.052244
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 1825316,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1830000/1825400/1825316/71d1fc97_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 344367,
+                        "name": "Hotel Toscana Verde",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Penna 2",
+                            "extendedAddress": "",
+                            "locality": "Pergine Valdarno",
+                            "postalCode": "52020",
+                            "region": "AR",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.4,
+                            "rating": "7,4",
+                            "total": 38,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "\u0425\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "26 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,108 RUB",
+                                "exactCurrent": 4107.63
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Pergine Valdarno",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.508119,
+                            "lon": 11.736704
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1502841,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1502900/1502841/d40c77bc_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 682455,
+                        "name": "Hotel il Duca del Montefeltro",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Aldo Moro, 12",
+                            "extendedAddress": "",
+                            "locality": "Pennabilli",
+                            "postalCode": "47864",
+                            "region": "",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8,2",
+                            "total": 8,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "\u041e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "38 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,129 RUB",
+                                "exactCurrent": 4129.38
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Pennabilli",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 43.81873,
+                            "lon": 12.26841
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 17293719,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/18000000/17300000/17293800/17293719/cd866385_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 1471882080,
+                        "name": "Agriturismo Tiberio",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Strada Provinciale 5 della Penna, 116 A",
+                            "extendedAddress": "",
+                            "locality": "Terranuova Bracciolini",
+                            "postalCode": "52028",
+                            "region": "AR",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 10.0,
+                            "rating": "10,0",
+                            "total": 2,
+                            "scale": 10,
+                            "badge": "exceptional",
+                            "badgeText": "\u0412\u0435\u043b\u0438\u043a\u043e\u043b\u0435\u043f\u043d\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "23 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,559 RUB",
+                                "exactCurrent": 4558.61
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Terranuova Bracciolini",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "D13",
+                        "coordinate": {
+                            "lat": 43.577131,
+                            "lon": 11.636544
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 45965065,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/46000000/45970000/45965100/45965065/a85fe8b7_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 572406,
+                        "name": "B&B 52cento",
+                        "starRating": 0.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Piazza Guido Monaco 9",
+                            "extendedAddress": "",
+                            "locality": "Arezzo",
+                            "postalCode": "52100",
+                            "region": "AR",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.0,
+                            "rating": "8,0",
+                            "total": 46,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "\u041e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "31 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,265 RUB",
+                                "exactCurrent": 4264.66
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Arezzo",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.462777,
+                            "lon": 11.87844
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 13417360,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/14000000/13420000/13417400/13417360/121e33c4_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 230501,
+                        "name": "Hotel Minerva",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Fiorentina, 4",
+                            "extendedAddress": "",
+                            "locality": "Arezzo",
+                            "postalCode": "52100",
+                            "region": "AR",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.6,
+                            "rating": "8,6",
+                            "total": 373,
+                            "scale": 10,
+                            "badge": "fabulous",
+                            "badgeText": "\u041f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u043d\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "30 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,238 RUB",
+                                "exactCurrent": 4238.04
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Arezzo",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.470633,
+                            "lon": 11.864476
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1183404,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1183500/1183404/532d4845_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 753757760,
+                        "name": "Hotel Restaurant La Torricella",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Torricella, 14",
+                            "extendedAddress": "",
+                            "locality": "Poppi",
+                            "postalCode": "52014",
+                            "region": "Arezzo",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9,0",
+                            "total": 21,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "\u041f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0435"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "3,7 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,238 RUB",
+                                "exactCurrent": 4238.04
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Poppi",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.73157,
+                            "lon": 11.76953
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 23523680,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/24000000/23530000/23523700/23523680/3dce8793_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 921405760,
+                        "name": "Hotel Le 3 Fonti",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Localit\u00e0 Trappola",
+                            "extendedAddress": "Via della Bottigliana 48",
+                            "locality": "Loro Ciuffenna",
+                            "postalCode": "52024",
+                            "region": "arezzo",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.0,
+                            "rating": "6,0",
+                            "total": 1,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "\u0425\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "19 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,238 RUB",
+                                "exactCurrent": 4238.04
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Loro Ciuffenna",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|HRW|TESCO",
+                        "coordinate": {
+                            "lat": 43.61891,
+                            "lon": 11.65128
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 28762680,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/29000000/28770000/28762700/28762680/731bdec6_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 232217,
+                        "name": "Etrusco Arezzo Hotel, Sure Hotel Collection by Best Western",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "Via Fleming 39",
+                            "extendedAddress": "",
+                            "locality": "Arezzo",
+                            "postalCode": "52100",
+                            "region": "AR",
+                            "countryName": "Italy",
+                            "countryCode": "it",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.4,
+                            "rating": "8,4",
+                            "total": 98,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "\u041e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "\u0421\u043e\u0447\u0438",
+                                "distance": "30 \u043a\u043c"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "4,266 RUB",
+                                "exactCurrent": 4265.75
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Arezzo",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 43.46922,
+                            "lon": 11.85399
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 914190,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/920000/914200/914190/a259ebae_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    }
+                ],
+                "pagination": {
+                    "currentPage": 1,
+                    "pageGroup": "EXPEDIA_IN_POLYGON",
+                    "nextPageStartIndex": 25,
+                    "nextPageNumber": 2,
+                    "nextPageGroup": "EXPEDIA_IN_POLYGON"
+                }
+            },
+            "sortResults": {
+                "options": [
+                    {
+                        "label": "\u0417\u0432\u0435\u0437\u0434\u043d\u043e\u0441\u0442\u044c",
+                        "itemMeta": "star",
+                        "choices": [
+                            {
+                                "label": "\u0417\u0432\u0435\u0437\u0434\u044b (\u043f\u043e \u0443\u0431\u044b\u0432\u0430\u043d\u0438\u044e)",
+                                "value": "STAR_RATING_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "\u0417\u0432\u0435\u0437\u0434\u044b (\u043f\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044e)",
+                                "value": "STAR_RATING_LOWEST_FIRST",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "\u0420\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435",
+                        "itemMeta": "distance",
+                        "choices": [
+                            {
+                                "label": "\u0420\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0434\u043e \u0446\u0435\u043d\u0442\u0440\u0430 \u0433\u043e\u0440\u043e\u0434\u0430",
+                                "value": "DISTANCE_FROM_LANDMARK",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": [
+                            {
+                                "label": "\u0427\u0442\u043e \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c",
+                                "itemMeta": "landmarks",
+                                "choices": [
+                                    {
+                                        "label": "\u0426\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430",
+                                        "id": 1912762.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "\u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u0433\u043e\u0441\u0442\u0435\u0439",
+                        "itemMeta": "rating",
+                        "choices": [
+                            {
+                                "label": "\u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u0433\u043e\u0441\u0442\u0435\u0439",
+                                "value": "GUEST_RATING",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "\u0426\u0435\u043d\u0430",
+                        "itemMeta": "price",
+                        "selectedChoiceLabel": "\u0426\u0435\u043d\u0430 (\u043f\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044e)",
+                        "choices": [
+                            {
+                                "label": "\u0426\u0435\u043d\u0430 (\u043f\u043e \u0443\u0431\u044b\u0432\u0430\u043d\u0438\u044e)",
+                                "value": "PRICE_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "\u0426\u0435\u043d\u0430 (\u043f\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044e)",
+                                "value": "PRICE",
+                                "selected": true
+                            }
+                        ],
+                        "enhancedChoices": []
+                    }
+                ],
+                "distanceOptionLandmarkId": 1912762.0
+            },
+            "filters": {
+                "applied": false,
+                "name": {
+                    "item": {
+                        "value": ""
+                    },
+                    "autosuggest": {
+                        "additionalUrlParams": {
+                            "resolved-location": "CITY:1912762:UNKNOWN:UNKNOWN",
+                            "q-destination": "\u0421\u043e\u0447\u0438, \u0411\u0438\u0431\u0431\u0438\u0435\u043d\u0430, \u0422\u043e\u0441\u043a\u0430\u043d\u0430, \u0418\u0442\u0430\u043b\u0438\u044f",
+                            "destination-id": "1912762"
+                        }
+                    }
+                },
+                "starRating": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "value": 5
+                        },
+                        {
+                            "value": 4
+                        },
+                        {
+                            "value": 3
+                        },
+                        {
+                            "value": 2
+                        },
+                        {
+                            "value": 1
+                        }
+                    ]
+                },
+                "guestRating": {
+                    "range": {
+                        "min": {
+                            "defaultValue": 0.0
+                        },
+                        "max": {
+                            "defaultValue": 10.0
+                        }
+                    }
+                },
+                "landmarks": {
+                    "selectedOrder": [],
+                    "items": [
+                        {
+                            "label": "\u0426\u0435\u043d\u0442\u0440 \u0433\u043e\u0440\u043e\u0434\u0430",
+                            "value": "1912762"
+                        }
+                    ],
+                    "distance": []
+                },
+                "accommodationType": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "\u0410\u0433\u0440\u043e\u0442\u0443\u0440\u0438\u0437\u043c",
+                            "value": "40"
+                        },
+                        {
+                            "label": "\u0410\u043f\u0430\u0440\u0442-\u043e\u0442\u0435\u043b\u0438",
+                            "value": "20"
+                        },
+                        {
+                            "label": "\u0412\u0438\u043b\u043b\u044b",
+                            "value": "14"
+                        },
+                        {
+                            "label": "\u0413\u043e\u0441\u0442\u0435\u0432\u044b\u0435 \u0434\u043e\u043c\u0430",
+                            "value": "30"
+                        },
+                        {
+                            "label": "\u0413\u043e\u0441\u0442\u0438\u043d\u0438\u0446\u044b",
+                            "value": "8"
+                        },
+                        {
+                            "label": "\u0414\u043e\u043c\u0430 \u0434\u043b\u044f \u043e\u0442\u043f\u0443\u0441\u043a\u0430",
+                            "value": "4"
+                        },
+                        {
+                            "label": "\u0417\u0430\u0433\u043e\u0440\u043e\u0434\u043d\u044b\u0435 \u0434\u043e\u043c\u0430",
+                            "value": "24"
+                        },
+                        {
+                            "label": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u044b ",
+                            "value": "15"
+                        },
+                        {
+                            "label": "\u041a\u043e\u0442\u0442\u0435\u0434\u0436\u0438",
+                            "value": "11"
+                        },
+                        {
+                            "label": "\u041c\u0438\u043d\u0438-\u043e\u0442\u0435\u043b\u0438",
+                            "value": "5"
+                        },
+                        {
+                            "label": "\u041e\u0442\u0435\u043b\u0438",
+                            "value": "1"
+                        },
+                        {
+                            "label": "\u0421\u0442\u043e\u044f\u043d\u043a\u0438 \u0434\u043b\u044f \u0430\u0432\u0442\u043e\u0444\u0443\u0440\u0433\u043e\u043d\u043e\u0432",
+                            "value": "21"
+                        },
+                        {
+                            "label": "\u0425\u043e\u0441\u0442\u0435\u043b\u044b",
+                            "value": "12"
+                        },
+                        {
+                            "label": "\u0428\u0430\u043b\u0435",
+                            "value": "10"
+                        }
+                    ]
+                },
+                "facilities": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "\u0412 \u0446\u0435\u043d\u0443 \u0432\u043a\u043b\u044e\u0447\u0435\u043d Wi-Fi",
+                            "value": "527"
+                        },
+                        {
+                            "label": "\u0414\u043b\u044f \u043d\u0435\u043a\u0443\u0440\u044f\u0449\u0438\u0445",
+                            "value": "529"
+                        },
+                        {
+                            "label": "\u0417\u0430\u0432\u0442\u0440\u0430\u043a \u0432\u043a\u043b\u044e\u0447\u0435\u043d",
+                            "value": "2048"
+                        },
+                        {
+                            "label": "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u0430\u044f \u0441\u0442\u043e\u0439\u043a\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438",
+                            "value": "2063"
+                        },
+                        {
+                            "label": "\u041f\u0430\u0440\u043a\u043e\u0432\u043a\u0430",
+                            "value": "134234112"
+                        },
+                        {
+                            "label": "\u041f\u0443\u043d\u043a\u0442 \u0437\u0430\u0440\u044f\u0434\u043a\u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439",
+                            "value": "1073743315"
+                        },
+                        {
+                            "label": "\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u043e \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u0441 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u043c\u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c\u0438",
+                            "value": "64"
+                        },
+                        {
+                            "label": "\u0421 \u0431\u0430\u0440\u043e\u043c",
+                            "value": "515"
+                        },
+                        {
+                            "label": "\u0421 \u0431\u0430\u0441\u0441\u0435\u0439\u043d\u043e\u043c",
+                            "value": "128"
+                        },
+                        {
+                            "label": "\u0421 \u0431\u0438\u0437\u043d\u0435\u0441-\u0443\u0441\u043b\u0443\u0433\u0430\u043c\u0438",
+                            "value": "519"
+                        },
+                        {
+                            "label": "\u0421 \u0432\u0430\u043d\u043d\u043e\u0439 \u0432 \u043d\u043e\u043c\u0435\u0440\u0435",
+                            "value": "517"
+                        },
+                        {
+                            "label": "\u0421 \u0434\u0435\u0442\u0441\u043a\u0438\u043c\u0438 \u043a\u0440\u043e\u0432\u0430\u0442\u043a\u0430\u043c\u0438",
+                            "value": "525"
+                        },
+                        {
+                            "label": "\u0421 \u0434\u043e\u0441\u0442\u0443\u043f\u043e\u043c \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+                            "value": "8"
+                        },
+                        {
+                            "label": "\u0421 \u0437\u043e\u043d\u0430\u043c\u0438 \u0434\u043b\u044f \u043a\u0443\u0440\u0435\u043d\u0438\u044f",
+                            "value": "537"
+                        },
+                        {
+                            "label": "\u0421 \u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446-\u0437\u0430\u043b\u0430\u043c\u0438",
+                            "value": "1"
+                        },
+                        {
+                            "label": "\u0421 \u043a\u0443\u0445\u043d\u0435\u0439",
+                            "value": "32"
+                        },
+                        {
+                            "label": "\u0421\u043e \u0441\u043c\u0435\u0436\u043d\u044b\u043c\u0438 \u043d\u043e\u043c\u0435\u0440\u0430\u043c\u0438",
+                            "value": "523"
+                        },
+                        {
+                            "label": "\u0421\u043e \u0441\u043f\u0430-\u0441\u0430\u043b\u043e\u043d\u043e\u043c",
+                            "value": "539"
+                        },
+                        {
+                            "label": "\u0421\u043e \u0441\u043f\u043e\u0440\u0442\u0437\u0430\u043b\u043e\u043c",
+                            "value": "2"
+                        },
+                        {
+                            "label": "\u0421 \u043f\u0440\u0438\u0441\u043c\u043e\u0442\u0440\u043e\u043c \u0437\u0430 \u0434\u0435\u0442\u044c\u043c\u0438",
+                            "value": "521"
+                        },
+                        {
+                            "label": "\u0421 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u043e\u043c",
+                            "value": "256"
+                        },
+                        {
+                            "label": "\u0421 \u0442\u0440\u0430\u043d\u0441\u0444\u0435\u0440\u043e\u043c \u0434\u043e \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0430",
+                            "value": "513"
+                        }
+                    ]
+                },
+                "accessibility": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "\u0411\u0435\u0437\u0431\u0430\u0440\u044c\u0435\u0440\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f",
+                            "value": "65536"
+                        },
+                        {
+                            "label": "\u0411\u0435\u0437\u0431\u0430\u0440\u044c\u0435\u0440\u043d\u044b\u0439 \u0434\u0443\u0448",
+                            "value": "262144"
+                        },
+                        {
+                            "label": "\u0412\u0430\u043d\u043d\u0430\u044f \u0434\u043b\u044f \u043c\u0430\u043b\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0433\u043e\u0441\u0442\u0435\u0439",
+                            "value": "131072"
+                        },
+                        {
+                            "label": "\u041d\u043e\u043c\u0435\u0440\u0430 \u0434\u043b\u044f \u043c\u0430\u043b\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0433\u043e\u0441\u0442\u0435\u0439",
+                            "value": "541"
+                        },
+                        {
+                            "label": "\u041e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0434\u043b\u044f \u0441\u043b\u0430\u0431\u043e\u0441\u043b\u044b\u0448\u0430\u0449\u0438\u0445",
+                            "value": "2097152"
+                        },
+                        {
+                            "label": "\u041f\u0430\u0440\u043a\u043e\u0432\u043a\u0430, \u043f\u0440\u0438\u0441\u043f\u043e\u0441\u043e\u0431\u043b\u0435\u043d\u043d\u0430\u044f \u0434\u043b\u044f \u043c\u0430\u043b\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0433\u043e\u0441\u0442\u0435\u0439",
+                            "value": "524288"
+                        },
+                        {
+                            "label": "\u0422\u0430\u043a\u0442\u0438\u043b\u044c\u043d\u044b\u0435 \u0443\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0438 \u0441\u043e \u0448\u0440\u0438\u0444\u0442\u043e\u043c \u0411\u0440\u0430\u0439\u043b\u044f \u0438\u043b\u0438 \u0440\u0435\u043b\u044c\u0435\u0444\u043d\u044b\u043c \u0448\u0440\u0438\u0444\u0442\u043e\u043c",
+                            "value": "4194304"
+                        },
+                        {
+                            "label": "\u0423\u0434\u043e\u0431\u0441\u0442\u0432\u0430 \u0432 \u043d\u043e\u043c\u0435\u0440\u0430\u0445 \u0434\u043b\u044f \u043c\u0430\u043b\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0433\u043e\u0441\u0442\u0435\u0439",
+                            "value": "1048576"
+                        }
+                    ]
+                },
+                "themesAndTypes": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "\u0411\u0443\u0442\u0438\u043a",
+                            "value": "4"
+                        },
+                        {
+                            "label": "\u0414\u043b\u044f \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u043e\u0442\u0434\u044b\u0445\u0430",
+                            "value": "18"
+                        },
+                        {
+                            "label": "\u0414\u043b\u044f \u0433\u043e\u043b\u044c\u0444\u0430",
+                            "value": "26"
+                        },
+                        {
+                            "label": "\u0414\u043b\u044f \u0434\u0435\u043b\u043e\u0432\u044b\u0445 \u043b\u044e\u0434\u0435\u0439",
+                            "value": "14"
+                        },
+                        {
+                            "label": "\u0414\u043b\u044f \u0441\u0435\u043c\u0435\u0439\u043d\u043e\u0433\u043e \u043e\u0442\u0434\u044b\u0445\u0430",
+                            "value": "25"
+                        },
+                        {
+                            "label": "\u0418\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0435",
+                            "value": "2"
+                        },
+                        {
+                            "label": "\u041a\u043b\u0430\u0441\u0441\u0430 \u00ab\u043b\u044e\u043a\u0441\u00bb",
+                            "value": "15"
+                        },
+                        {
+                            "label": "\u041d\u0430 \u0432\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043d\u0438\u043a\u0430\u0445",
+                            "value": "19"
+                        },
+                        {
+                            "label": "\u041d\u0430 \u0442\u0435\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430\u0445",
+                            "value": "22"
+                        },
+                        {
+                            "label": "\u041e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u0433\u043e\u0441\u0442\u0435\u0439 \u041b\u0413\u0411\u0422\u041a",
+                            "value": "21"
+                        },
+                        {
+                            "label": "\u041f\u043b\u044f\u0436\u043d\u044b\u0435",
+                            "value": "6"
+                        },
+                        {
+                            "label": "\u0421\u043f\u0430",
+                            "value": "27"
+                        }
+                    ]
+                },
+                "price": {
+                    "label": "\u0421\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c (\u043e\u0431\u0449\u0430\u044f)",
+                    "range": {
+                        "min": {
+                            "defaultValue": 0
+                        },
+                        "max": {
+                            "defaultValue": 25000
+                        },
+                        "increments": 250
+                    },
+                    "multiplier": 1
+                },
+                "welcomeRewards": {
+                    "label": "Hotels.com\u2122 Rewards",
+                    "items": [
+                        {
+                            "label": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0448\u0442\u0430\u043c\u043f\u044b",
+                            "value": "collect"
+                        },
+                        {
+                            "label": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0431\u043e\u043d\u0443\u0441\u043d\u044b\u0435* \u0441\u0443\u0442\u043a\u0438",
+                            "value": "redeem"
+                        }
+                    ]
+                }
+            },
+            "pointOfSale": {
+                "currency": {
+                    "code": "RUB",
+                    "symbol": "RUB",
+                    "separators": ",.",
+                    "format": "{0} RUB"
+                }
+            },
+            "miscellaneous": {
+                "pageViewBeaconUrl": "/taps/v1/PageView?deviceType=App-Phone&sort-order=PRICE&rooms=1&destRegionID=1912762&hotelIds=1355119296,411147,215236,369896,939348960,660634816,637788064,287537,243907,251238,266210,887577088,395774,392003,872928384,78832320,262335,344367,682455,1471882080,572406,230501,753757760,921405760,232217&adults=1&userAgent=Hotels.com/Android%2080.0.1.9.release-80_0%20(80000660)&userGuid=7f1e554b-fa5a-4790-8ebe-cab7918380df&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E,HSR_F,HSR_G,HSR_H,HSR_I,HSR_J&children=0&culture=ru_RU&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.1,9008.0,8347.2,9004.0,8952.0,7992.2,8915.0,9729.0,9864.0,10155.0,10185.0,10473.0,10320.0,10361.0&domain=ru.hotels.com&userIP=127.0.0.1&action=pageview&publisher=expedia&programId=1",
+                "showLegalInfoForStrikethroughPrices": true,
+                "legalInfoForStrikethroughPrices": "\u0417\u0430\u0447\u0435\u0440\u043a\u043d\u0443\u0442\u0430\u044f \u0446\u0435\u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u043e\u043c \u0442\u0430\u0440\u0438\u0444\u0435 \u0432 \u043d\u0430\u0448\u0435\u043c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u043e\u043c \u0438 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u043e\u043c \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u043c \u0440\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u044f."
+            },
+            "pageInfo": {
+                "pageType": "dateless"
+            }
+        },
+        "common": {
+            "pointOfSale": {
+                "numberSeparators": "\u00a0,",
+                "brandName": "Hotels.com"
+            },
+            "tracking": {
+                "omniture": {
+                    "s.prop33": "D=v33",
+                    "s.prop32": "D=v43",
+                    "s.prop74": "search result without dates | ms shown | N",
+                    "s.products": "LOCAL;42316228,LOCAL;5182629,LOCAL;967595",
+                    "s.eVar16": "Mob :: aApp",
+                    "s.eVar40": "D=v0",
+                    "s.eVar41": "RUB",
+                    "s.eVar63": "674ddd0a-5b07-4f95-8043-4302223d9832",
+                    "s.eVar42": "dateless",
+                    "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar43": "ru_RU|HCOM_RU|ru.hotels.com",
+                    "s.eVar2": "\u0421\u043e\u0447\u0438, \u0411\u0438\u0431\u0431\u0438\u0435\u043d\u0430, \u0422\u043e\u0441\u043a\u0430\u043d\u0430, \u0418\u0442\u0430\u043b\u0438\u044f",
+                    "s.eVar24": "MCTC=20;TU=NA;PDID=NULL;MVT=",
+                    "s.eVar7": "",
+                    "s.server": "ru.hotels.com",
+                    "s.eVar6": "1912762",
+                    "s.prop29": "D=v42",
+                    "s.prop27": "7f1e554b-fa5a-4790-8ebe-cab7918380df",
+                    "s.eVar9": "Price - low to high",
+                    "s.eVar69": "Mob :: aApp",
+                    "s.currencyCode": "RUB",
+                    "s.eVar26": "US:TX:CORPUSCHRISTI:600",
+                    "s.eVar29": "Mob :: aApp",
+                    "s.prop9": "734",
+                    "s.eVar95": "Unknown",
+                    "s.prop7": "730",
+                    "s.eVar31": "D=v0",
+                    "s.eVar32": "D=v0",
+                    "s.eVar33": "search result without dates",
+                    "s.eVar34": "H1871:007.002,M904:000.000,M3736:000.000,M4440.2,M4869:001.000,M4952:050.001,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7192:000.000,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7552:023.001,M7870:000.000,M8336:000.000,M8347:019.002,M8692:000.000,M8698:000.000,M8718:000.000,M8915:000.000,M8928:019.001,M8952:000.000,M8976:000.000,M8992:000.000,M9035:000.000,M9220:000.000,M9297:000.000,M9351:000.000,M9431:000.000,M9469:000.000,M9549:000.000,M9729:000.000,M9752:000.000,M9864:000.000,M9924:006.002,M9961:000.000,M9971:000.000,M10001:000.000,M10007:000.000,M10013:002.001,M10121:000.000,M10137:000.000,M10155:000.000,M10185:000.000,M10248:000.000,M10259:000.000,M10268:000.000,M10282:000.000,M10300:000.000,M10320:000.000,M10361:000.000,M10473:000.000,M9215:001.000",
+                    "s.eVar13": "389273",
+                    "s.events": "event324,event320",
+                    "s.prop18": "D=v6",
+                    "s.prop5": "389273",
+                    "s.prop15": "",
+                    "s.prop3": "\u0421\u043e\u0447\u0438, \u0411\u0438\u0431\u0431\u0438\u0435\u043d\u0430, \u0422\u043e\u0441\u043a\u0430\u043d\u0430, \u0418\u0442\u0430\u043b\u0438\u044f",
+                    "s.prop14": "D=v7",
+                    "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar93": "aws.us-west-2.unknown",
+                    "s.prop2": "Price - low to high"
+                }
+            }
+        }
+    }
+}
